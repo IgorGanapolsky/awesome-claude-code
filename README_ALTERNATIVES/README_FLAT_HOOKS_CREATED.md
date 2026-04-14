@@ -56,6 +56,15 @@ A flat list view of all resources. Category: **Hooks** | Sorted: by date created
 </thead>
 <tbody>
 <tr>
+<td><a href="https://github.com/IgorGanapolsky/ThumbGate"><b>ThumbGate</b></a><br>by <a href="https://github.com/IgorGanapolsky">IgorGanapolsky</a></td>
+<td>Hooks</td>
+<td>General</td>
+<td>MCP server that blocks AI coding agents from repeating mistakes — turns thumbs-up/down feedback into enforced pre-action gates via PreToolUse hooks. Supports Claude Code, Cursor, Codex, Gemini CLI.</td>
+</tr>
+<tr>
+<td colspan="4"><img src="https://img.shields.io/github/stars/IgorGanapolsky/ThumbGate?style=flat-square" alt="stars"> <img src="https://img.shields.io/github/forks/IgorGanapolsky/ThumbGate?style=flat-square" alt="forks"> <img src="https://img.shields.io/github/issues/IgorGanapolsky/ThumbGate?style=flat-square" alt="issues"> <img src="https://img.shields.io/github/issues-pr/IgorGanapolsky/ThumbGate?style=flat-square" alt="prs"> <img src="https://img.shields.io/github/created-at/IgorGanapolsky/ThumbGate?style=flat-square" alt="created"> <img src="https://img.shields.io/github/last-commit/IgorGanapolsky/ThumbGate?style=flat-square" alt="last-commit"> <img src="https://img.shields.io/github/release-date/IgorGanapolsky/ThumbGate?style=flat-square" alt="release-date"> <img src="https://img.shields.io/github/v/release/IgorGanapolsky/ThumbGate?style=flat-square" alt="version"> <img src="https://img.shields.io/github/license/IgorGanapolsky/ThumbGate?style=flat-square" alt="license"></td>
+</tr>
+<tr>
 <td><a href="https://github.com/vaporif/parry"><b>parry</b></a><br>by <a href="https://github.com/vaporif">Dmytro Onypko</a></td>
 <td>Hooks</td>
 <td>General</td>
@@ -168,6 +177,6 @@ A flat list view of all resources. Category: **Hooks** | Sorted: by date created
 
 ---
 
-**Total Resources:** 12
+**Total Resources:** 13
 
 **Last Generated:** 2026-04-14

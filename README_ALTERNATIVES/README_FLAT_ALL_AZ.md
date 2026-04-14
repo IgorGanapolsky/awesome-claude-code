@@ -1739,6 +1739,15 @@ A flat list view of all resources. Category: **All** | Sorted: alphabetically by
 <td colspan="4"><img src="https://img.shields.io/github/stars/ClaytonFarr/ralph-playbook?style=flat-square" alt="stars"> <img src="https://img.shields.io/github/forks/ClaytonFarr/ralph-playbook?style=flat-square" alt="forks"> <img src="https://img.shields.io/github/issues/ClaytonFarr/ralph-playbook?style=flat-square" alt="issues"> <img src="https://img.shields.io/github/issues-pr/ClaytonFarr/ralph-playbook?style=flat-square" alt="prs"> <img src="https://img.shields.io/github/created-at/ClaytonFarr/ralph-playbook?style=flat-square" alt="created"> <img src="https://img.shields.io/github/last-commit/ClaytonFarr/ralph-playbook?style=flat-square" alt="last-commit"> <img src="https://img.shields.io/github/release-date/ClaytonFarr/ralph-playbook?style=flat-square" alt="release-date"> <img src="https://img.shields.io/github/v/release/ClaytonFarr/ralph-playbook?style=flat-square" alt="version"> <img src="https://img.shields.io/github/license/ClaytonFarr/ralph-playbook?style=flat-square" alt="license"></td>
 </tr>
 <tr>
+<td><a href="https://github.com/IgorGanapolsky/ThumbGate"><b>ThumbGate</b></a><br>by <a href="https://github.com/IgorGanapolsky">IgorGanapolsky</a></td>
+<td>Hooks</td>
+<td>General</td>
+<td>MCP server that blocks AI coding agents from repeating mistakes — turns thumbs-up/down feedback into enforced pre-action gates via PreToolUse hooks. Supports Claude Code, Cursor, Codex, Gemini CLI.</td>
+</tr>
+<tr>
+<td colspan="4"><img src="https://img.shields.io/github/stars/IgorGanapolsky/ThumbGate?style=flat-square" alt="stars"> <img src="https://img.shields.io/github/forks/IgorGanapolsky/ThumbGate?style=flat-square" alt="forks"> <img src="https://img.shields.io/github/issues/IgorGanapolsky/ThumbGate?style=flat-square" alt="issues"> <img src="https://img.shields.io/github/issues-pr/IgorGanapolsky/ThumbGate?style=flat-square" alt="prs"> <img src="https://img.shields.io/github/created-at/IgorGanapolsky/ThumbGate?style=flat-square" alt="created"> <img src="https://img.shields.io/github/last-commit/IgorGanapolsky/ThumbGate?style=flat-square" alt="last-commit"> <img src="https://img.shields.io/github/release-date/IgorGanapolsky/ThumbGate?style=flat-square" alt="release-date"> <img src="https://img.shields.io/github/v/release/IgorGanapolsky/ThumbGate?style=flat-square" alt="version"> <img src="https://img.shields.io/github/license/IgorGanapolsky/ThumbGate?style=flat-square" alt="license"></td>
+</tr>
+<tr>
 <td><a href="https://github.com/KarpelesLab/tpl/blob/master/CLAUDE.md"><b>TPL</b></a><br>by <a href="https://github.com/KarpelesLab">KarpelesLab</a></td>
 <td>CLAUDE.md Files</td>
 <td>Language-Specific</td>
@@ -1842,6 +1851,6 @@ A flat list view of all resources. Category: **All** | Sorted: alphabetically by
 
 ---
 
-**Total Resources:** 200
+**Total Resources:** 201
 
 **Last Generated:** 2026-04-14

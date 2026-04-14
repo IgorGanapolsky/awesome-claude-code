@@ -194,9 +194,9 @@ _A transparent HTTP proxy and real-time dashboard that sits between Claude Code 
 <a href="https://aipatternbook.com"><img src="../assets/badge-encyclopedia-of-agentic-coding-patterns.svg" alt="Encyclopedia of Agentic Coding Patterns"></a>  
 _A freely available reference covering 190+ patterns for AI-assisted software development (and actually a whole bunch of related technical topics) from foundational concepts through agentic construction patterns, governance, testing, and socio-technical systems. Each entry follows a consistent pattern-language format with Context, Problem, Forces, Solution, Consequences, and Related Patterns. Opinionated and erudiate, which is actually good for an "encyclopedia" in some ways._
 
-<a href="https://github.com/panaversity/claude-code-agent-teams-exercises"><img src="../assets/badge-claude-code-agent-teams-exercises.svg" alt="Claude Code Agent Teams: Exercises"></a>  
-_Practical exercises for Claude Code Agent Teams - 6 exercises + 2 capstones covering team creation, task coordination, quality hooks, and parallel code review - good learning resource._  
-![GitHub Stats for claude-code-agent-teams-exercises](https://github-readme-stats-fork-orpin.vercel.app/api/pin/?repo=claude-code-agent-teams-exercises&username=panaversity&all_stats=true&stats_only=true&hide_border=true&bg_color=00000000&icon_color=FF0000&text_color=FF0000)
+<a href="https://github.com/IgorGanapolsky/ThumbGate"><img src="../assets/badge-thumbgate.svg" alt="ThumbGate"></a>  
+_MCP server that blocks AI coding agents from repeating mistakes — turns thumbs-up/down feedback into enforced pre-action gates via PreToolUse hooks. Supports Claude Code, Cursor, Codex, Gemini CLI._  
+![GitHub Stats for ThumbGate](https://github-readme-stats-fork-orpin.vercel.app/api/pin/?repo=ThumbGate&username=IgorGanapolsky&all_stats=true&stats_only=true&hide_border=true&bg_color=00000000&icon_color=FF0000&text_color=FF0000)
 
 
 <br>
@@ -1578,6 +1578,13 @@ _Prompt injection scanner for Claude Code hooks. Scans tool inputs and outputs f
 <a href="https://github.com/nizos/tdd-guard"><img src="../assets/badge-tdd-guard.svg" alt="TDD Guard"></a>  
 _A hooks-driven system that monitors file operations in real-time and blocks changes that violate TDD principles._  
 ![GitHub Stats for tdd-guard](https://github-readme-stats-fork-orpin.vercel.app/api/pin/?repo=tdd-guard&username=nizos&all_stats=true&stats_only=true&hide_border=true&bg_color=00000000&icon_color=FF0000&text_color=FF0000)
+
+<div align="center"><img src="../assets/entry-separator-light-animated.svg" alt=""></div>
+
+
+<a href="https://github.com/IgorGanapolsky/ThumbGate"><img src="../assets/badge-thumbgate.svg" alt="ThumbGate"></a>  
+_MCP server that blocks AI coding agents from repeating mistakes — turns thumbs-up/down feedback into enforced pre-action gates via PreToolUse hooks. Supports Claude Code, Cursor, Codex, Gemini CLI._  
+![GitHub Stats for ThumbGate](https://github-readme-stats-fork-orpin.vercel.app/api/pin/?repo=ThumbGate&username=IgorGanapolsky&all_stats=true&stats_only=true&hide_border=true&bg_color=00000000&icon_color=FF0000&text_color=FF0000)
 
 <div align="center"><img src="../assets/entry-separator-light-animated.svg" alt=""></div>
 
