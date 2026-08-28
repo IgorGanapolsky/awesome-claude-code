@@ -60,13 +60,13 @@ A transparent HTTP proxy and real-time dashboard that sits between Claude Code a
 [`Encyclopedia of Agentic Coding Patterns`](https://aipatternbook.com) &nbsp; by &nbsp; [Wolf McNally](https://github.com/wolfmcnally)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;&copy;  
 A freely available reference covering 190+ patterns for AI-assisted software development (and actually a whole bunch of related technical topics) from foundational concepts through agentic construction patterns, governance, testing, and socio-technical systems. Each entry follows a consistent pattern-language format with Context, Problem, Forces, Solution, Consequences, and Related Patterns. Opinionated and erudiate, which is actually good for an "encyclopedia" in some ways.
 
-[`Claude Code Agent Teams: Exercises`](https://github.com/panaversity/claude-code-agent-teams-exercises) &nbsp; by &nbsp; [Panaversity](https://github.com/panaversity)    
-Practical exercises for Claude Code Agent Teams - 6 exercises + 2 capstones covering team creation, task coordination, quality hooks, and parallel code review - good learning resource.
+[`ThumbGate`](https://github.com/IgorGanapolsky/ThumbGate) &nbsp; by &nbsp; [IgorGanapolsky](https://github.com/IgorGanapolsky)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+MCP server that blocks AI coding agents from repeating mistakes — turns thumbs-up/down feedback into enforced pre-action gates via PreToolUse hooks. Supports Claude Code, Cursor, Codex, Gemini CLI.
 
 <details>
 <summary>📊 GitHub Stats</summary>
 
-![GitHub Stats for claude-code-agent-teams-exercises](https://github-readme-stats-fork-orpin.vercel.app/api/pin/?repo=claude-code-agent-teams-exercises&username=panaversity&all_stats=true&stats_only=true)
+![GitHub Stats for ThumbGate](https://github-readme-stats-fork-orpin.vercel.app/api/pin/?repo=ThumbGate&username=IgorGanapolsky&all_stats=true&stats_only=true)
 
 </details>
 <br>
@@ -1511,6 +1511,17 @@ A hooks-driven system that monitors file operations in real-time and blocks chan
 <summary>📊 GitHub Stats</summary>
 
 ![GitHub Stats for tdd-guard](https://github-readme-stats-fork-orpin.vercel.app/api/pin/?repo=tdd-guard&username=nizos&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
+[`ThumbGate`](https://github.com/IgorGanapolsky/ThumbGate) &nbsp; by &nbsp; [IgorGanapolsky](https://github.com/IgorGanapolsky)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+MCP server that blocks AI coding agents from repeating mistakes — turns thumbs-up/down feedback into enforced pre-action gates via PreToolUse hooks. Supports Claude Code, Cursor, Codex, Gemini CLI.
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for ThumbGate](https://github-readme-stats-fork-orpin.vercel.app/api/pin/?repo=ThumbGate&username=IgorGanapolsky&all_stats=true&stats_only=true)
 
 </details>
 <br>
